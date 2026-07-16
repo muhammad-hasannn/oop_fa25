@@ -1,6 +1,6 @@
 # Object-Oriented Programming (Fall 2025)
 
-This repository contains all the assignments and lab tasks **Object-Oriented Programming course (Fall 2025)**.
+This repository contains all the assignments and lab tasks **Object-Oriented Programming** course.
 
 ## Semester Project
 
